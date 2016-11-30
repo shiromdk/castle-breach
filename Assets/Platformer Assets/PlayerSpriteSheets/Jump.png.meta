@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 0ad9fbcf643cd7647813a901384ec717
+timeCreated: 1441925479
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jump_0
+    21300002: Jump_1
+    21300004: Jump_2
+    21300006: Jump_3
+    21300008: Jump_4
+    21300010: Jump_5
+    21300012: Jump_6
+    21300014: Jump_7
+    21300016: Jump_8
+    21300018: Jump_9
+    21300020: Jump_10
+    21300022: Jump_11
+    21300024: Jump_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Jump_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 57
+        width: 311
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump_1
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 57
+        width: 307
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump_2
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 57
+        width: 287
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump_3
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 57
+        width: 255
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump_4
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 57
+        width: 262
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump_5
+      rect:
+        serializedVersion: 2
+        x: 2730
+        y: 60
+        width: 281
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump_6
+      rect:
+        serializedVersion: 2
+        x: 3210
+        y: 116
+        width: 307
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump_7
+      rect:
+        serializedVersion: 2
+        x: 3712
+        y: 122
+        width: 301
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump_8
+      rect:
+        serializedVersion: 2
+        x: 4218
+        y: 80
+        width: 307
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump_9
+      rect:
+        serializedVersion: 2
+        x: 4789
+        y: 57
+        width: 265
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump_10
+      rect:
+        serializedVersion: 2
+        x: 5312
+        y: 57
+        width: 251
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump_11
+      rect:
+        serializedVersion: 2
+        x: 5782
+        y: 57
+        width: 287
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Jump_12
+      rect:
+        serializedVersion: 2
+        x: 6261
+        y: 57
+        width: 304
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
